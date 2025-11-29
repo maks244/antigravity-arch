@@ -1,0 +1,16 @@
+# Generated PKGBUILD - never committed, always generated fresh from Google
+PKGBUILD
+
+# makepkg build artifacts
+pkg/
+src/
+*.deb
+*.tar
+*.tar.zst
+*.tar.xz
+*.tar.gz
+*.pkg.tar*
+
+# Downloaded sources
+code.sh
+antigravity.sh
